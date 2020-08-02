@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/actionMaps"
+        android:title="Lokasi Kami"/>
+
+    <item
+        android:id="@+id/actionCRUD"
+        android:title="CRUD Buku"/>
+</menu>

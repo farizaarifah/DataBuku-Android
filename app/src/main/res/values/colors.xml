@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#FFBA55</color>
+    <color name="kuning">#f5c842</color>
+    <color name="biru">#71A7E4</color>
+    <color name="ijo">#7af57e</color>
+</resources>

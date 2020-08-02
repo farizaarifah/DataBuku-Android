@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ViewActivity"
+    android:orientation="vertical"
+    android:padding="22dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Judul Buku:"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_judul_show"
+        android:text="Judulnyah"
+        android:textSize="16dp"
+        android:textColor="#000"
+        android:paddingBottom="12dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Penulis:"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_penulis_show"
+        android:text="Penulisnyah"
+        android:textSize="16dp"
+        android:textColor="#000"
+        android:paddingBottom="12dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Penerbit:"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_penerbit_show"
+        android:text="Penerbitnyah"
+        android:textSize="16dp"
+        android:textColor="#000"
+        android:paddingBottom="12dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cover Buku:"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:textSize="20dp"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:id="@+id/imageView_show"
+        android:src="@drawable/bukutanpabg"/>
+
+
+</LinearLayout>

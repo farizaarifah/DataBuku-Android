@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "793709325821",
+    "firebase_url": "https://uasproject-2020.firebaseio.com",
+    "project_id": "uasproject-2020",
+    "storage_bucket": "uasproject-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793709325821:android:72e6c137428995fda53d94",
+        "android_client_info": {
+          "package_name": "com.arifah.uas_proyek_buku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793709325821-78sv7gpck4thn2vehh3ds66i4cq3iuka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFasejxLVnbMdaPqkD0YzKUQoCI6B7cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793709325821-78sv7gpck4thn2vehh3ds66i4cq3iuka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793709325821:android:44f3c3acf251264ca53d94",
+        "android_client_info": {
+          "package_name": "com.arifah.uasproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793709325821-78sv7gpck4thn2vehh3ds66i4cq3iuka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFasejxLVnbMdaPqkD0YzKUQoCI6B7cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793709325821-78sv7gpck4thn2vehh3ds66i4cq3iuka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
