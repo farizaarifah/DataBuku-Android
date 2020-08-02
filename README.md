@@ -19,7 +19,10 @@ Sedangkan menu lokasi untuk melihat lokasi Ruang Baca Fariza dengan tampilan map
 Jika kita memilih menu data buku maka akan diarahkan ke halaman list data buku. Di halaman ini diperlihatkan seluruh buku yang dimiliki Ruang Baca Fariza dalam bentuk list. Tetapi di list ini hanya menampilkan judul buku dan penulis saja. <br> Untuk melihat data buku lebih lanjut, kita bisa memilih salah satu data di list tersebut yang mana akan diarahkan ke halaman detail activity <br>
 **4. Halaman detail.** <br> Di halaman ini kita bisa melihat dengan detail informasi dari buku yang dipilih. Dan juga dapat melihat cover buku tersebut. <br> <img src="/ss/detail_buku.jpg" width="270" height="585"> <br>
 **5.Tambah data buku.** <br> 
-Tambah data buku dapat dilakukan dengan cara mengeklik floating action button yang ada di halaman list data. Floating button berada di pojok kanan bawah yang mana akan mengarahkan kita ke halaman tambah data yang berbentuk form. <img src="/ss/floating_button.jpg" width="270" height="585"> <br>
+Tambah data buku dapat dilakukan dengan cara mengeklik floating action button yang ada di halaman list data. Floating button berada di pojok kanan bawah yang mana akan mengarahkan kita ke halaman tambah data yang berbentuk form. <br> <img src="/ss/floating_button.jpg" width="270" height="585"> <br>
 **6. Halaman tambah data.** <br>
 halaman ini berbentuk form ntuk mengisi data buku baru. Data yang harus diisi adalah Judul buku, Penulis, Penerbit, dan cover buku. Di sini akan terjadi upload image, oleh karena itu ada progress bar di bawah ruang untuk gambar. <br>
 <img src="/ss/form_tambah.jpg" width="270" height="585"> <img src="/ss/form_tambah2.jpg" width="270" height="585"> <br>
+**7. Halaman Maps**<br>
+Halaman ini berisi alamat Buku Fariza dalam bentuk maps. <br>
+<img src="/ss/maps.jpg" width="270" height="585"> <br>
